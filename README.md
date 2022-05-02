@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AbdulWahab Sherifdeen (@Sherluck08)
-- 👀 I’m interested in Python and Developing Native Android Apps with Kotlin/Java
+- 👀 I’m interested in Python and Developing Mobile Apps with Flutter/Java/Kotlin
 - 🌱 I’m currently learning Kotlin/Android
 - 💞️ I’m looking to collaborate on Open Source, Python projects, Kotlin/Android
 - 📫 How to reach me <a href="https://twitter.com/__sherifdeen__">Twitter</a>
